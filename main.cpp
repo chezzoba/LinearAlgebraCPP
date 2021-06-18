@@ -33,5 +33,6 @@ int main ( ) {
     PointLoad pl({1, 2, 3}, {4, 5, 6});
     pl.force().print();
     pl.moment().print();
+    cout << abs(-300);
     return 0;
 }

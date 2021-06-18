@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+armadillo-10.5.2/*
 
 # Compiled Object files
 *.slo

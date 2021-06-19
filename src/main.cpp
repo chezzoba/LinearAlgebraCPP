@@ -13,6 +13,5 @@ int main ( ) {
     mat b = join_cols(a, A);
     b.i().print();
     (b.i() * vec({1, 2, 3})).print();
-    cout << endl << endl;
     return 0;
 }
